@@ -1,8 +1,8 @@
 public class Atender{
 
-    public static main(String[] args) throws Exception{
+    public Atender(String[] args){
 
-        System.out.println("Hello wo");
+        System.out.println("Hello world");
 
 
     }
