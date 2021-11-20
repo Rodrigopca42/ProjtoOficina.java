@@ -8,6 +8,6 @@ public class Conserto {
         c1.aberto();
         c1.status();
         c1.consertarCarros();
-        //O Aqui é instanciado todos os atributos,ou seja, é criado o Objeto
+        //O Aqui é instanciado todos os atributos,ou seja, é criado o Objeto.
     }
 }
